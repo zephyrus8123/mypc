@@ -7,7 +7,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: self-hosted
+    runs-on: windows-latest
     timeout-minutes: 3600
 
 
